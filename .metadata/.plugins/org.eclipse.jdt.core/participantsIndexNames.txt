@@ -1,0 +1,13 @@
+INDEX VERSION 1.134
+D:\2023-2024 ODDSEM SUB\JAVA FULL STACK DEVELOPMENT\New Project Bookstore Real\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2986261928.index
+\Fashion_Desigin\src\main\java
+D:\2023-2024 ODDSEM SUB\JAVA FULL STACK DEVELOPMENT\New Project Bookstore Real\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1885321293.index
+\Fashion_Desigins\src\main\java
+D:\2023-2024 ODDSEM SUB\JAVA FULL STACK DEVELOPMENT\New Project Bookstore Real\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1109233032.index
+\Fashion_Desigins\src\main\java
+D:\2023-2024 ODDSEM SUB\JAVA FULL STACK DEVELOPMENT\New Project Bookstore Real\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2590010028.index
+\BookstoreReal\src\main\java
+D:\2023-2024 ODDSEM SUB\JAVA FULL STACK DEVELOPMENT\New Project Bookstore Real\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4012509586.index
+\com.example.demo\src\main\java
+D:\2023-2024 ODDSEM SUB\JAVA FULL STACK DEVELOPMENT\online_book_store\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2590010028.index
+\BookstoreReal\src\main\java

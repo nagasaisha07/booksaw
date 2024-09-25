@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+D:\2023-2024 ODDSEM SUB\JAVA FULL STACK DEVELOPMENT\online_book_store\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2291788108.index
+2261526769.index
+2375155031.index
+762435681.index
+3755290105.index
+3670802538.index
+888241019.index
+2590010028.index
